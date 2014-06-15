@@ -1,0 +1,8 @@
+This package contains a subroutine library with
+functions and subroutines to manipulate the LIBPATH
+extensions [BEGINLIBPATH and ENDLIBPATH] from within
+an OS/2 address space.
+
+Freeware with full source code.
+
+Author: David W Noon (dwnoon@os2bbs.com)
